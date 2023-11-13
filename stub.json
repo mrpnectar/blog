@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Make a blog template that includes a profile picture, date posted, and body section for blog. Include a navbar at the top","md5":"9b7a672af616a67af4a6f022d3104b6f"}]}
